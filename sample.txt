@@ -1,5 +1,5 @@
 {
-	name:"rajesh",
+	name:"prince",
 	email:"sample@gmail.com"
 
 }
